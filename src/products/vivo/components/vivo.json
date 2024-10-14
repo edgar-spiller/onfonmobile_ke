@@ -1,0 +1,22 @@
+{
+    "VivoPhones": [
+      {
+        "name": "Vivo Y22",
+        "image": "/images/new/nokia-c22-2023.jpg",
+        "deposit": "KSH 4,800",
+        "plans": {
+          "daily": " ksh 65",
+          "weekly": " ksh 560 (7 days)",
+          "monthly": " ksh 2400 (30 days)"
+        },
+        "specs": {
+          "screen": "6.6' Screen",
+          "battery": "5000mah battery",
+          "camera": "13mp + 8mp dual camera",
+          "storage": "2GB ram | 64gb rom",
+          "android": "Android 11"
+        }
+      }
+    ]
+  }
+  

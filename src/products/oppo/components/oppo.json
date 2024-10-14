@@ -1,0 +1,24 @@
+{
+    "oppoPhones": [
+      {
+        "id": "1",
+        "name": "Oppo A77",
+        "image": "assets/images/oppo/Oppo A77.webp",
+        "rating": 4.8,
+        "storage": "64GB Rom | 32GB RAM",
+        "price": "Lipa Daily Ksh 85",
+        "deposit": "Deposit Ksh 5,000",
+        "progress": 85
+      },
+      {
+        "id": "2",
+        "name": "Oppo A93",
+        "image": "assets/images/oppo/Oppo A93.webp",
+        "rating": 4.5,
+        "storage": "128GB Rom | 8GB RAM",
+        "price": "Lipa Daily Ksh 120",
+        "deposit": "Deposit Ksh 6,000",
+        "progress": 90
+      }
+    ]
+  }
