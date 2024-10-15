@@ -512,7 +512,8 @@ const BlogDetails = () => {
                 </div>
             </div>
         </section>
-
+        
+        
     )
 }
 
