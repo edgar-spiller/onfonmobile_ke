@@ -1,0 +1,43 @@
+{
+    "blog": [
+        {
+            "id": 1,
+            "category": "Gadget",
+            "title": "How Onfon Mobile is Making Smartphones Accessible to Millions ",
+            "content": "In today’s fast-paced world, smartphones have become essential tools for communication, education, business, and entertainment. However, the high cost of smartphones has historically placed them out of reach for many individuals, particularly in Africa...",
+            "additional_content": "Re-engagement — objectives. As developers, we rightfully obsess about the customer experience, relentlessly working to squeeze every millisecond out of the critical rendering path, optimize input latency, and eliminate...",
+            "date": "July 12, 2025",
+            "main_image": "assets/images/blog/blog 01-01.webp",
+            "images": [
+                "assets/images/blog/blog-01-02.webp",
+                "assets/images/blog/blog-01-03.webp"
+            ]
+        },
+        {
+            "id": 2,
+            "category": "Technology",
+            "title": "How Onfon Mobile is Empowering Content Creation and Job Creation for Young People",
+            "content": "Content creation has become a lucrative industry, offering vast opportunities for individuals to share their creativity, talents, and ideas with the world...",
+            "additional_content": "Home automation continues to grow, with integration of artificial intelligence allowing devices to learn preferences and habits, creating a more personalized experience.",
+            "date": "June 5, 2025",
+            "main_image": "assets/images/blog/creator 01-01.webp",
+            "images": [
+                "assets/images/blog/blog-01-01.webp",
+                "assets/images/blog/blog-01-02.webp"
+            ]
+        },
+        {
+            "id": 3,
+            "category": "Software",
+            "title": "How Onfon Mobile is Enhancing Access to E-Books and Online Education",
+            "content": "Access to educational resources is more important than ever. With the rising demand for e-books and online classes, smartphones have become essential tools for learning...",
+            "additional_content": "Despite concerns around data privacy, the benefits of AI in enhancing productivity and providing tailored experiences are undeniable.",
+            "date": "August 19, 2025",
+            "main_image": "assets/images/blog/study 01-01.webp",
+            "images": [
+                "assets/images/blog/blog-01-01.webp",
+                "assets/images/blog/blog-01-02.webp"
+            ]
+        }
+    ]
+}

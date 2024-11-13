@@ -1,0 +1,87 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Samsung Galaxy A23",
+        "image": "assets/images/samsung/samsung A23.webp",
+        "rating": 4.8,
+        "storage": "64GB Rom | 32GB RAM",
+        "progress": 85,
+        "dailyPayment": "Ksh 85",
+        "deposit": "Ksh 5,000",
+        "detailsLink": "/",
+        "cartLink": "/cart",
+        "thumbs":[
+          "assets/images/samsung/samsung A14.webp",
+          "assets/images/thumbs/product-details-two-thumb2.png",
+          "assets/images/thumbs/product-details-two-thumb3.png",
+          "assets/images/thumbs/product-details-two-thumb1.png",
+          "assets/images/thumbs/product-details-two-thumb2.png"
+        ]
+      },
+      {
+        "id": 2,
+        "name": "Samsung Galaxy A15",
+        "image": "assets/images/samsung/samsung A15.webp",
+        "rating": 4.5,
+        "storage": "32GB Rom | 16GB RAM",
+        "progress": 70,
+        "dailyPayment": "Ksh 60",
+        "deposit": "Ksh 3,000",
+        "detailsLink": "/samsung-details",
+        "cartLink": "/cart"
+      },
+      {
+        "id": 3,
+        "name": "Samsung Galaxy A14",
+        "image": "assets/images/samsung/samsung A14.webp",
+        "rating": 4.3,
+        "storage": "64GB Rom | 32GB RAM",
+        "progress": 65,
+        "dailyPayment": "Ksh 75",
+        "deposit": "Ksh 4,000",
+        "detailsLink": "/samsung-details",
+        "cartLink": "/cart"
+      },
+      {
+        "id": 4,
+        "name": "Samsung Galaxy A13",
+        "image": "assets/images/samsung/samsung A13.webp",
+        "rating": 4.8,
+        "storage": "64GB Rom | 32GB RAM",
+        "progress": 85,
+        "dailyPayment": "Ksh 85",
+        "deposit": "Ksh 5,000",
+        "detailsLink": "/samsung-details",
+        "cartLink": "/cart"
+      },
+      {
+        "id": 5,    
+        "name": "Samsung Galaxy A04e",    
+        "image": "assets/images/samsung/samsung A04e.webp",    
+        "rating": 4.8,    
+        "storage": "64GB Rom | 32GB RAM",    
+        "progress": 85,    
+        "dailyPayment": "Ksh 85",    
+        "deposit": "Ksh 5,000",    
+        "detailsLink": "/samsung-details",
+        "cartLink": "/cart"
+        },
+        {
+          "id": 6,
+          "name": "Samsung Galaxy A03",
+          "image": "assets/images/samsung/samsung A03.webp",
+          "rating": 4.8,
+          "storage": "64GB Rom | 32GB RAM",
+          "progress": 85,
+          "dailyPayment": "Ksh 85",
+          "deposit": "Ksh 5,000",
+          "detailsLink": "/samsung-details",
+          "cartLink": "/cart"
+        }
+    ]
+  }
+  
+
+
+  

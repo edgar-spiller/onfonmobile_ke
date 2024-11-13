@@ -1,0 +1,44 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Neon Ultra",
+        "image": "assets/images/neon/Neon Ultra.webp",
+        "rating": 4.8,
+        "storage": "2GB Rom | 32GB RAM",
+        "progress": 85,
+        "dailyPayment": "Ksh 50",
+        "deposit": "Ksh 2,500",
+        "detailsLink": "/neon-details",
+        "cartLink": "/cart"
+      },
+      {
+        "id": 2,
+        "name": "Neon Ultra Smarta",
+        "image": "assets/images/neon/Neon Ultra Safaricom.webp",
+        "rating": 4.5,
+        "storage": "32GB Rom | 16GB RAM",
+        "progress": 70,
+        "dailyPayment": "Ksh 40",
+        "deposit": "Ksh 2,000",
+        "detailsLink": "/neon-details",
+        "cartLink": "/cart"
+      },
+      {
+        "id": 2,
+        "name": "Neon Ultra Safaricom",
+        "image": "assets/images/neon/Neon Ultra Safaricom.webp",
+        "rating": 4.5,
+        "storage": "32GB Rom | 16GB RAM",
+        "progress": 70,
+        "dailyPayment": "Ksh 60",
+        "deposit": "Ksh 3,000",
+        "detailsLink": "/neon-details",
+        "cartLink": "/cart"
+      }
+    ]
+  }
+  
+
+
+  

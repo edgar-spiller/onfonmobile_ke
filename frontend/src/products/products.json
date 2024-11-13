@@ -1,0 +1,53 @@
+[
+    {
+      "id": "product-001",
+      "name": "Samsung A14",
+      "image": "assets/images/thumbs/product-two-img1.png",
+      "rating": 4.8,
+      "storage": "64GB Rom | 32GB RAM",
+      "price": "Lipa Daily Ksh 85",
+      "deposit": "Deposit Ksh 5,000",
+      "progress": 85
+    },
+    {
+      "id": "product-002",
+      "name": "Tecno Spark 7",
+      "image": "assets/images/thumbs/product-tecno-img1.png",
+      "rating": 4.5,
+      "storage": "128GB Rom | 6GB RAM",
+      "price": "Lipa Daily Ksh 65",
+      "deposit": "Deposit Ksh 4,000",
+      "progress": 65
+    },
+    {
+        "id": "product-002",
+        "name": "Tecno Spark 7",
+        "image": "assets/images/thumbs/product-tecno-img1.png",
+        "rating": 4.5,
+        "storage": "128GB Rom | 6GB RAM",
+        "price": "Lipa Daily Ksh 65",
+        "deposit": "Deposit Ksh 4,000",
+        "progress": 65
+      },
+      {
+        "id": "product-002",
+        "name": "Tecno Spark 7",
+        "image": "assets/images/thumbs/product-tecno-img1.png",
+        "rating": 4.5,
+        "storage": "128GB Rom | 6GB RAM",
+        "price": "Lipa Daily Ksh 65",
+        "deposit": "Deposit Ksh 4,000",
+        "progress": 65
+      },
+      {
+        "id": "product-002",
+        "name": "Tecno Spark 7",
+        "image": "assets/images/thumbs/product-tecno-img1.png",
+        "rating": 4.5,
+        "storage": "128GB Rom | 6GB RAM",
+        "price": "Lipa Daily Ksh 65",
+        "deposit": "Deposit Ksh 4,000",
+        "progress": 65
+      }
+  ]
+  

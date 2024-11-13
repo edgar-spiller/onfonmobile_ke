@@ -1,0 +1,68 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "infinix Hot 40 Pro",
+        "image": "assets/images/infinix/Infinix Hot 40 Pro.webp",
+        "rating": 4.8,
+        "storage": "8GB Rom | 256GB RAM",
+        "progress": 85,
+        "dailyPayment": "Ksh 90",
+        "deposit": "Ksh 6,600",
+        "detailsLink": "/infinix-details",
+        "cartLink": "/cart"
+      }, 
+      {
+        "id": 2,
+        "name": "infinix Hot 40 I",
+        "image": "assets/images/infinix/Infinix Hot 40 i.webp",
+        "rating": 4.5,
+        "storage": "4GB Rom | 128GB RAM",
+        "progress": 70,
+        "dailyPayment": "Ksh 60",
+        "deposit": "Ksh 4,500",
+        "detailsLink": "/infinix-details",
+        "cartLink": "/cart"
+      },
+      {
+        "id": 3,
+        "name": "infinix Hot 30 Pro",
+        "image": "assets/images/infinix/Hot 30 Pro.webp",
+        "rating": 4.3,
+        "storage": "64GB Rom | 32GB RAM",
+        "progress": 65,
+        "dailyPayment": "Ksh 75",
+        "deposit": "Ksh 4,000",
+        "detailsLink": "/infinix-details",
+        "cartLink": "/cart"
+      },
+      {
+        "id": 4,
+        "name": "infinix Hot 30 I",
+        "image": "assets/images/infinix/Infinix Hot 30 i.webp",
+        "rating": 4.8,
+        "storage": "64GB Rom | 32GB RAM",
+        "progress": 85,
+        "dailyPayment": "Ksh 85",
+        "deposit": "Ksh 5,000",
+        "detailsLink": "/infinix-details",
+        "cartLink": "/cart"
+      },
+      {
+        "id": 5,    
+        "name": "Infinix Smart 8",    
+        "image": "assets/images/infinix/Infinix Smart 8.webp",    
+        "rating": 4.8,    
+        "storage": "64GB Rom | 32GB RAM",    
+        "progress": 85,    
+        "dailyPayment": "Ksh 85",    
+        "deposit": "Ksh 5,000",    
+        "detailsLink": "/infinix-details",
+        "cartLink": "/cart"
+        }
+    ]
+  }
+  
+
+
+  

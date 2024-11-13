@@ -1,0 +1,48 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Samsung A13",
+      "description": "Geared up and ready to roll: Get the responsive performance you're looking for...",
+      "price": {
+        "deposit": "Ksh 7,500",
+        "dailyPayment": "Ksh 115"
+      },
+      "specs": {
+        "screenSize": "6.6'",
+        "batteryCapacity": "5000mAh",
+        "camera": "8MP + 8MP dual",
+        "storage": {
+          "ram": "128GB",
+          "rom": "4GB"
+        }
+      },
+      "action": {
+        "link": "https://www.whatsapp.com",
+        "label": "Request More Information"
+      }
+    },
+    {
+      "id": 2,
+      "name": "Samsung A14",
+      "description": "Geared up and ready to roll: Get the responsive performance you're looking for...",
+      "price": {
+        "deposit": "Ksh 7,500",
+        "dailyPayment": "Ksh 115"
+      },
+      "specs": {
+        "screenSize": "6.6'",
+        "batteryCapacity": "5000mAh",
+        "camera": "8MP + 8MP dual",
+        "storage": {
+          "ram": "128GB",
+          "rom": "4GB"
+        }
+      },
+      "action": {
+        "link": "https://www.whatsapp.com",
+        "label": "Request More Information"
+      }
+    }
+  ]
+}
